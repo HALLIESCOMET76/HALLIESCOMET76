@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me : contact me - vrishabh755@gmail.com
-- 😄 Pronouns: he/she , his/her ...( no problem )
+- 😄 Pronouns: WHATEVER YOU WANT ...( no problem )
 - ⚡ Fun fact: i am skilled with photoshop , figma , blender , python , js.
 
 <!---
