@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me : contact me - vrishabh755@gmail.com
 - 😄 Pronouns: WHATEVER YOU WANT ...( no problem )
-- ⚡ Fun fact: i am skilled with photoshop , figma , blender , python , js.
+- ⚡ Fun fact: i am skilled with Web development, Figma, Blender, UI/UX, AI Expert
 
 <!---
 HALLIESCOMET76/HALLIESCOMET76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
