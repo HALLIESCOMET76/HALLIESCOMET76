@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HALLIESCOMET76 ---( RISHABH VISHWAKARMA )
+- 👋 Hi, I’m @HALLIESCOMET76 ---(RISHABH VISHWAKARMA)
 - 👀 I’m interested in Web-development
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on frontend projects
